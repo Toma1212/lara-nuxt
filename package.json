@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@nuxtjs/proxy": "^2.0.1"
+  }
+}
